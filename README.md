@@ -17,3 +17,5 @@ This project is a comprehensive Mobile Sales Management System built using Elect
 - **Responsive Frontend:** Utilizes React for the frontend interface, offering a dynamic and responsive user experience. The intuitive design enhances usability and efficiency in managing sales operations.
 
 - **Secure Database Management:** Integrates MySQL for robust database management, ensuring the security and reliability of stored data. It provides efficient data storage and retrieval mechanisms for seamless application performance.
+
+New function is coming
