@@ -18,4 +18,4 @@ This project is a comprehensive Mobile Sales Management System built using Elect
 
 - **Secure Database Management:** Integrates MySQL for robust database management, ensuring the security and reliability of stored data. It provides efficient data storage and retrieval mechanisms for seamless application performance.
 
-New function coming soon
+New function coming soon :)
